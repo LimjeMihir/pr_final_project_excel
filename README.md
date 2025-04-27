@@ -59,7 +59,7 @@ Each sheet represents a unique step or tool used in data analytics. The file als
 - **Profitability Metrics**: Shows which products or customer segments are more profitable.
 - **Trend Analysis**: Charts visualize time trends, helping understand seasonality or sales spikes.
 
-<img src="Dashboard01.png" height=850px width="1350px">
+<img src="Dashboard1.png" height=850px width="1350px">
 
 **The dashboard is designed for easy decision-making, allowing stakeholders to quickly grasp important patterns and take action.**
 
